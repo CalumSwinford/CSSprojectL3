@@ -1,0 +1,18 @@
+h1 {
+  color: hsla(240, 100%, 100%, 0.5);
+}
+p {color: red;
+}
+body {
+  background-color: dodgerblue;
+}
+ .purple-text {
+   color: rgba(0, 0, 255, 0.5);
+ }
+ .important{
+   font-weight: bold;
+ }
+ #lead-paragraph{
+   color: purple;
+   font-weight: bold;
+ }
